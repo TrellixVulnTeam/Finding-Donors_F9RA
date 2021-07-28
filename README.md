@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
@@ -52,7 +50,5 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
-=======
-# Finding-Donors
-2nd Project from Udacity's M.L. Nanodegree program - Term 1
->>>>>>> fa7a2f3f164f03b7ffd410d40dc59ba2c03d14ec
+
+
